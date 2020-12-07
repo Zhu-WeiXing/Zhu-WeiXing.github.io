@@ -98,7 +98,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+<<<<<<< HEAD
 theme: butterfly
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 7ada1530c7ae03fd2d75ead29ae498ea85b4dd70
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
