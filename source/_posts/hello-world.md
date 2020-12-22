@@ -36,3 +36,20 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+<head>
+    ..
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+    ...
+</head>
+<body>
+    ...
+    <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'SJ13imK9Axc4XRyVqJGDjMpC-gzGzoHsz',
+            appKey: '4VndgpcaDEjclRBhXJ73mrWE'
+        })
+    </script>
+</body>

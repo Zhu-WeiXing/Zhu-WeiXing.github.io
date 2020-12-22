@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 虽然我不够完美，但至少我会对真正对我好的人加倍的好
-subtitle: '哈哈'
+title: 失望攒够了，就离开吧
+subtitle: ''
 description: ''
 keywords:
 author: 伟兴
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -109,4 +109,4 @@ theme: butterfly
 deploy:
     type: git
     repo: https://github.com/Zhu-WeiXing/Zhu-WeiXing.github.io.git
-    branch: master
+    branch: main

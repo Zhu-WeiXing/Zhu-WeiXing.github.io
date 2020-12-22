@@ -1,8 +1,7 @@
 ---
-title: pictures
-date: 2020-12-20 23:09:17
+title: Girl
+date: 2020-12-21 20:21:45
 ---
-http://localhost:4000/pictures/image
 {% gallery %}
 ![](https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg)
 ![](https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg)
