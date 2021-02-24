@@ -784,18 +784,20 @@ baidu_push: false
 
 # https://instant.page/
 # prefetch (預加載)
-instantpage: false
+# 让您的网站页面在1分钟内立即显示，并显着提高转化率
+instantpage: true
 
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
 pangu:
-  enable: false
+  enable: true
   field: site # site/post
 
 # Lazyload (圖片懶加載)
 # https://github.com/verlok/lazyload
+# LazyLoad是一种轻量级（2.4 kB）且灵活的脚本，它通过将折后的图像，视频和iframe的加载推迟到它们进入视口的时间来加速Web应用程序
 lazyload:
-  enable: false
+  enable: true
   post: /img/loading.gif
 
 # PWA
