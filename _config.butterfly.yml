@@ -90,7 +90,7 @@ favicon: /img/favicon.png
 # Avatar (頭像)
 avatar:
   img: /img/wechat-avatar.jpg
-  effect: false
+  effect: true
 
 # The banner image of home page
 index_img: /img/伽罗-花见巫女.jpg
@@ -613,7 +613,7 @@ preloader: true
 
 aside:
   enable: true
-  hide: true
+  hide: false
   button: true
   mobile: true # display on mobile
   position: right # left or right
@@ -623,7 +623,7 @@ aside:
     button:
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/Zhu-WeiXing.github.io
   card_announcement:
     enable: true
     content: This is my Blog
@@ -741,7 +741,7 @@ mermaid:
 deploy:
     type: git
     repo: https://github.com/Zhu-WeiXing/Zhu-WeiXing.github.io.git
-    branch: main
+    branch: master
 
 # Note (Bootstrap Callout)
 note:
