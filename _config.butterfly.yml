@@ -205,7 +205,7 @@ related_post:
   date_type: created # or created or updated 文章日期顯示創建日或者更新日
 
 # figcaption (圖片描述文字)
-photofigcaption: false
+photofigcaption: ture
 
 # anchor
 # when you scroll in post, the URL will update according to header id.
@@ -610,7 +610,6 @@ preloader: true
 
 # aside (側邊欄)
 # --------------------------------------
-
 aside:
   enable: true
   hide: false
@@ -665,7 +664,7 @@ runtimeshow:
 
 # Aside widget - Newest Comments
 newest_comments:
-  enable: false
+  enable: true
   limit: 6
   avatar: true
   leancloud:
